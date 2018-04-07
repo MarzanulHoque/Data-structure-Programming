@@ -49,4 +49,5 @@ int main()
 	}
 	multiplication(m,p,n);
 	print();
+	return 0;
 }
