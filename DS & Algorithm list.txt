@@ -1,0 +1,57 @@
+//1. Binary search tree
+2. AVL tree
+3. Binary heap
+4. Graph representation
+5. XOR link list
+6. Segment Tree | Set 1 (Sum of given range)
+7. Segment Tree | Set 2 (Range Minimum Query)
+8. Lazy Propagation in Segment Tree
+9. Persistent Segment Tree 
+10. Trie
+11. Binary indxed tree
+12. Suffix array and tree
+13. Disjoint set
+14. Hash
+15. Red black tree
+16. Fibonacci Heaps
+
+1. Binary search
+2. Ternary search
+3. KMP algorithm
+4. Robin-karp
+5. Gaussian Elimination
+6. Game Theory
+7. Inclusion and Exclusion Principle
+8. Euler's Totient Function
+9. Burnside Lemma
+11. Modular multiplecative inverse
+12. nCr % M
+13. Line Intersection
+14. Sieve of Erastothenes
+15. Matrix Exponentiation
+16. Z-algorithm
+17. Sqrt-Decomposition
+18. MinMax Algorithm
+19. Graham scan
+
+20. BFS and DFS
+21. Dijkstra
+22. Bellman-Ford
+23. Floyd-Warshall
+24. kruskal algorithm
+25. prim's algorithm
+26. Topological Sorting
+27. Graph Coloring
+28. Heavy-light Decomposition
+29. Max Flow(Ford-Fulkerson)
+30. Stable Marriage Problem
+
+31. 0-1 Knapsack
+32. LIS
+33. LCS
+34. Coin Change
+35. Matrix Multiplication
+36. Backtracking
+37. Divide and Conquer
+38. Greedy Algorithms
+39. Hashing
